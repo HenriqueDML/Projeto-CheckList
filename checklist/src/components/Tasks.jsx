@@ -7,10 +7,11 @@ function Tasks({ tasks, onTaskClick, onDeleteTaskClick }) {
   function onSeeDetailsClick(task){
     const query = new URLSearchParams()
     query.set("title", task.title);
-    query.set("descripition", task.description);
+    query.set("description", task.description);
     navigate(`/task?${query.toString()}`);
-    navigate(`/task?title=${task.title}&description${task.description}`)
-  }
+-   navigate(`/task?title=${task.title}&description=${task.description}`);
+}
+
   return (
     <ul className="space-y-4 p-6 bg-slate-200 rounded-md shadow">
         {tasks.map((task)=> 
