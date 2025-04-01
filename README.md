@@ -2,8 +2,13 @@
 
 Bem-vindo ao **Projeto CheckList**, uma aplicação web simples e funcional para gerenciamento de tarefas.
 
+![imgcheck](https://github.com/user-attachments/assets/8331f4e7-ade9-4bb1-a009-88d9ff0de04e)
+
 Acesse a aplicação online:
-👉 [https://projeto-check-list-8ejt.vercel.app](https://projeto-check-list-8ejt.vercel.app)
+👉 [https://projeto-check-list-8ejt.vercel.app](https://projeto-check-list-8ejt.vercel.app) 
+
+Link Testando:
+👉 https://youtu.be/frzhWkPCG-Y
 
 ---
 
