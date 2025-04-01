@@ -20,18 +20,17 @@ function App() {
   }, [tasks]);
 
   useEffect(() => {
-    const fetchTasks = async () => {
+    //const fetchTasks = async () => {
       // Vou chamar a API 
-    const response = await fetch (`https://jsonplaceholder.typicode.com/todos?_limit=10`,{
-      method: 'GET'}
-    );
+    //const response = await fetch (`https://jsonplaceholder.typicode.com/todos?_limit=10`,{
+    //  method: 'GET'}
+    //);
     // Vou pegar os dados dela
-    const data = await response.json();
+    //const data = await response.json();
     // Armazenando e persistindo ele
-    setTasks(data)
-      
-    }
-    fetchTasks();
+    //setTasks(data)
+    //}
+    //fetchTasks();
   }, [])
 
   function onTaskClick(taskId) {
