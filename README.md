@@ -7,7 +7,7 @@ Bem-vindo ao **Projeto CheckList**, uma aplicação web simples e funcional para
 Acesse a aplicação online:
 👉 [https://projeto-check-list-8ejt.vercel.app](https://projeto-check-list-8ejt.vercel.app) 
 
-Link Testando:
+Link video testando:
 👉 https://youtu.be/frzhWkPCG-Y
 
 ---
